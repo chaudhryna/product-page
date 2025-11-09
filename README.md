@@ -3,4 +3,4 @@
 Creating a responsive website using HTML and CSS with Flexbox.
 
 
-<!-- ![site image](image name here) -->
+![site image](product-page.png)
